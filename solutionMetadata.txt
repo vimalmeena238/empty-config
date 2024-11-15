@@ -1,0 +1,17 @@
+"defaultvcn.0002": {
+    "solutionExposure": "prod",
+    "name": "${Messages.solutionsHub.solutions.defaultVCN.solutionName()}",
+    "description": "${Messages.solutionsHub.solutions.defaultVCN.stackDescription()}",
+    "longDescription": {
+        "description": "${Messages.solutionsHub.solutions.defaultVCN.longDescription()}"
+    },
+    "icon": {
+        "iconLine1": "Default",
+        "iconLine2": "Virtual",
+        "iconLine3": "Cloud"
+    },
+    "terraformVersion": "0.12.x",
+    "isFreeTier": false,
+    "type": "service",
+    "categoryId": "1"
+}
